@@ -1,0 +1,43 @@
+{
+    "name": "Founders Pass #001",
+    "symbol": "FP-P89",
+    "description": "Collection of 333 Founders Passes, Which Grant You Special Perks Within Project89",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://QmWHRdp9svU916CMBicNnFn8CZbYHKV5CK9fcrRteNVJMz",
+    "animation_url": "ipfs://Qma2qTj2ATz3VMpGkztkv5WiQBASANvsEMCnbRdV7eSdqQ",
+    "external_url": "https://project89.io",
+    "attributes": [
+        {
+            "trait_type": "Founder Tier",
+            "value": "Diamond"
+        }
+    ],
+    "collection": {
+        "name": "Founders Pass",
+        "family": "Project89"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://QmWHRdp9svU916CMBicNnFn8CZbYHKV5CK9fcrRteNVJMz",
+                "type": "image/png"
+            },
+            {
+                "uri": "https://res.cloudinary.com/dceu0qvxs/video/upload/v1647550720/Project89/Diamond_n5rc0r.mp4",
+                "type": "video/mp4",
+                "cdn": true
+            },
+            {
+                "uri": "ipfs://Qma2qTj2ATz3VMpGkztkv5WiQBASANvsEMCnbRdV7eSdqQ",
+                "type": "video/mp4"
+            }
+        ],
+        "category": "video",
+        "creators": [
+            {
+                "address": "WXNMKCKJ5UUVaRABW23kpdd1Hu3PKbkMsJaG5h2JDxn",
+                "share": 100
+            }
+        ]
+    }
+}
